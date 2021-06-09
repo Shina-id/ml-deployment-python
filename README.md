@@ -3,7 +3,7 @@ Tensorflow model deployment to cloud and the API to call prediction
 
 ## Step by Step deployment using VM (IaaS)
 
-- Config your VM that allow traffic from port 5000
+- Config your VM to allow ingress traffic to port 5000
 
 - in the VM, create your virtual environment using command:
   ```bash
