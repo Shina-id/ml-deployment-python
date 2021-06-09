@@ -23,4 +23,8 @@ Tensorflow model deployment to cloud and the API to call prediction
   cd ml-deployment-python
   python3 app.py
   ```
-  ##### note: dont forget to change the saved_model directory in paddy.py with your saved_model directory
+  #### note: dont forget to change the saved_model directory in paddy.py with your saved_model directory
+  line:
+  ```python
+  model = keras.models.load_model(r'./pariii')
+  ```
