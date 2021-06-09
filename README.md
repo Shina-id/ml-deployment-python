@@ -28,3 +28,5 @@ Tensorflow model deployment to cloud and the API to call prediction
   ```python
   model = keras.models.load_model(r'./pariii')
   ```
+  or you could use our saved_model file in [here](https://drive.google.com/drive/folders/19Lee546VD1mj6RPZ-ElfC-1xvEprTWSk)
+  
